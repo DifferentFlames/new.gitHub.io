@@ -1,0 +1,36 @@
+body{
+    background-color: white;
+}
+.topDiv {
+border-top-style: solid ;
+border-bottom-style: solid ;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+border-color: royalblue;
+}
+.secDiv{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.table{
+    margin: auto;
+    background-color: royalblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box{
+    border: solid;
+    margin: 0px 2px 15px 2px;
+    padding: 0px 17px 5px 17px;
+    border-color: cornflowerblue;
+    background-color: aliceblue;
+    border-radius: 25px;
+}
+img{
+    width: 30em;
+    border: solid;
+    border-width: 2px;
+    border-color: #4C0E8A;
+}
+.table p{
+    text-align: center;
+}
